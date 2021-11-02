@@ -1,0 +1,84 @@
+body{
+
+	background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701914290.jpg");
+
+}
+
+nav.menu-navigo ul.datapacks li.btn:hover{
+color:orange;
+	background-color:green;	
+	padding-left:  5px;
+	padding-right : 5px;
+ transition:300ms;
+	border-radius:50px;
+}
+nav.menu-navigo ul.datapacks li.btn{
+color:orange;
+	background-color:yellow;
+	padding:  2px;	
+	transition:300ms;
+	border-radius:50px;
+}
+nav.menu-navigo ul li.btn:hover{
+color:orange;
+	background-color:red;	
+	padding-left:  5px;
+	padding-right : 5px;
+ transition:300ms;
+	border-radius:50px;
+}
+nav.menu-navigo ul{
+	display: inline-flex;
+}
+
+nav.menu-navigo ul li{
+	list-style-type: none;
+	}
+
+nav.menu-navigo ul li.btn a {
+	color:white;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left:50px;
+	padding-right:50px; 
+	text-decoration:none;
+	background-color: orange;
+	border-radius: 25px;
+}
+nav.menu-navigo ul li.btn:hover a {
+	background-color:white;
+	color: orange;
+	padding-top:15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	transition: 300ms;
+}
+
+nav.menu-datapacks ul{
+	display: inline-flex;
+}
+
+nav.menu-datapacks ul li{
+	list-style-type: none;
+	}
+
+nav.menu-datapacks ul li.btn a {
+	color:white;
+	padding-top:25px;
+	padding-bottom: 25px;
+	padding-left:50px;
+	padding-right:50px; 
+	text-decoration:none;
+	background-color: green;
+	border-radius: 25px;
+}
+nav.menu-datapacks ul li.btn:hover a {
+	background-color:white;
+	color: green;
+	padding-top:15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	transition: 300ms;
+}
