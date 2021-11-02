@@ -54,11 +54,6 @@ nav.menu-navigo ul li.btn:hover a {
 	transition: 300ms;
 }
 
-h1{
-background-color:green;
-padding: 25px;
-	border-radius:50px;
-}
 nav.actus ul.news{
 background-color:yellow;
 display:inline-block;
