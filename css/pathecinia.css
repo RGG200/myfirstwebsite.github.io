@@ -79,12 +79,13 @@ nav.menu-navigo ul li.btn:hover a {
 	transition: 300ms;
 }
 ul.map li a {
+	display: inline-block;
 	background-color: lightcyan;
 	text-decoration:none;
 	border-raduis:5px;
 	padding:10px;
 }
-ul.map li a {
+ul.map li a:hover {
 	transition:350ms;
 	background-color: white;
 	text-decoration:none;
