@@ -78,14 +78,17 @@ nav.menu-navigo ul li.btn:hover a {
 	padding-right: 50px;
 	transition: 300ms;
 }
-ul.map li a {
-	display: inline-block;
-	background-color: lightcyan;
+ul.map li a{
+		color:white;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left:20px;
+	padding-right:20px; 
 	text-decoration:none;
-	border-raduis:5px;
-	padding:10px;
+	background-color: green;
+	border-radius: 25px;
 }
-ul.map li a:hover {
+ul.map li:hover a {
 	transition:350ms;
 	background-color: white;
 	text-decoration:none;
