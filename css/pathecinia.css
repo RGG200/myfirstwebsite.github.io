@@ -26,7 +26,7 @@ body{
 	background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701914290.jpg");
 }
 
-nav.menu-navigo ul.acceuil li.btn:hover{
+nav.menu-navigo ul.pathecinia2 li.btn:hover{
 color:orange;
 	background-color:green;	
 	padding-left:  5px;
@@ -77,4 +77,17 @@ nav.menu-navigo ul li.btn:hover a {
 	padding-left: 50px;
 	padding-right: 50px;
 	transition: 300ms;
+}
+ul.map li a {
+	background-color: lightcyan;
+	text-decoration:none;
+	border-raduis:5px;
+	padding:10px;
+}
+ul.map li a {
+	transition:350ms;
+	background-color: white;
+	text-decoration:none;
+	border-raduis:10px;
+	padding:10px;
 }
