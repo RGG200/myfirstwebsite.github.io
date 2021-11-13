@@ -1,3 +1,9 @@
+h1.hello{
+	background-color: lightcyan;
+	display: inline-block;
+	padding: 20px;
+	border-radius: 15px;
+}
 body{
 	background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701914290.jpg");
 }
@@ -53,20 +59,37 @@ nav.menu-navigo ul li.btn:hover a {
 	padding-right: 50px;
 	transition: 300ms;
 }
+h1{
+	background-color: gold;
+	display: inline-block;
+	padding:10px;
+	border-radius: 10px;
 
-nav.actus ul.news{
-background-color:yellow;
-display:inline-block;
-	padding:20px;
-	color:red;
-	border-radius:50px;
 }
-nav.actus ul.news li:hover{
+div.news h1{
+
+	background-color: darkcyan;
+	color: white;
+}
+div.news h1:hover{
+	transition: :3000ms;
+	background-color: white;
+	color: darkcyan;
+	padding:10px;
+	border-radius: 10px;
+}
+
+nav.actus h3{
+background-color:yellow;
+	padding:10px;
+	color:red;
+	border-radius:10px;
+}
+nav.actus h3:hover{
 	transition : 300ms;
 background-color:yellow;
-display:inline-block;
 	color:red;
-	border-radius:50px;
+	border-radius:20px;
 }
 
 section.login-container{

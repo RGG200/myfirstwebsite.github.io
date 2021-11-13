@@ -6,24 +6,34 @@ body{
 
 div#content div.leftbox{
 	display: inline-block;
-	width: 48%;			 
+	width: 48%;		
+	padding: 10px;	 
 }
 
+
+h1.hello{
+	background-color: darkcyan;
+	display: inline-block;
+	padding: 20px;
+	border-radius: 15px;
+}
 div#content div.rightbox{
 	display: inline-block;
 	width: 48%;			 
+	padding: 10px;
 }
 
 div#content div.rprk{
 	display: inline-block;
 	width: 58%;			 
+	padding: 10px;
 }
 
 div#content div.leftbox{
 	vertical-align: top ;
 	color: yellow;
 	transition:200ms;
-	border-radius: 50px;
+	border-radius: 20px;
 }
 
 div#content div.leftbox:hover{
@@ -54,6 +64,7 @@ div#content div.rightbox:hover{
 	padding: 15px;
 	background-color:#8F0512;
 	color: gray;
+	border-radius: 20px;
 }
 
 div#content div.rightbox iframe{
@@ -72,7 +83,7 @@ div#content div.rprk{
 		color:blue
 	padding 40px;
 	transition:200ms;
-	border-radius: 50px;
+	border-radius: 20px;
 }
 
 div#content div.rprk iframe{
