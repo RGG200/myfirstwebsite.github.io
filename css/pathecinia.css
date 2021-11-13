@@ -78,7 +78,7 @@ nav.menu-navigo ul li.btn:hover a {
 	padding-right: 50px;
 	transition: 300ms;
 }
-ul.map li a{
+ul.map{
 		color:white;
 	padding-top:20px;
 	padding-bottom: 20px;
@@ -89,11 +89,19 @@ ul.map li a{
 	background-color: greenyellow;
 	border-radius: 25px;
 }
-ul.map li:hover a {
+ul.map:hover{
 	transition:350ms;
 	background-color: white;
 	color: greenyellow;
 	text-decoration:none;
 	border-raduis:10px;
 	padding:21px;
+}
+ul.map li a{
+	text-decoration: none;
+	color:white;
+}
+ul.map li:hover a{
+	text-decoration: none;
+	color:green;
 }
