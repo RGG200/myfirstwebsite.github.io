@@ -71,8 +71,8 @@ nav.menu-datapacks ul li{
 
 nav.menu-datapacks ul li.btn a {
 	color:white;
-	padding-top:25px;
-	padding-bottom: 25px;
+	padding-top:105px;
+	padding-bottom: 105px;
 	padding-left:50px;
 	padding-right:50px; 
 	text-decoration:none;
@@ -82,8 +82,8 @@ nav.menu-datapacks ul li.btn a {
 nav.menu-datapacks ul li.btn:hover a {
 	background-color:white;
 	color: green;
-	padding-top:15px;
-	padding-bottom: 15px;
+	padding-top:100px;
+	padding-bottom: 100px;
 	padding-left: 50px;
 	padding-right: 50px;
 	transition: 300ms;
