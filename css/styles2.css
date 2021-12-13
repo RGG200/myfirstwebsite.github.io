@@ -8,30 +8,6 @@ body{
 	background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701914290.jpg");
 }
 
-nav.menu-navigo ul.news li.btn:hover{
-color:orange;
-	background-color:green;	
-	padding-left:  5px;
-	padding-right : 5px;
- transition:300ms;
-	border-radius:50px;
-}
-nav.menu-navigo ul.news li.btn{
-color:orange;
-	background-color:yellow;
-	padding:  2px;	
-	transition:300ms;
-	border-radius:50px;
-}
-nav.menu-navigo ul li.btn:hover{
-color:orange;
-	background-color:red;	
-	padding-left:  5px;
-	padding-right : 5px;
- transition:300ms;
-	border-radius:50px;
-}
-
 nav.menu-navigo ul{
 	display: inline-flex;
 }
@@ -40,25 +16,7 @@ nav.menu-navigo ul li{
 	list-style-type: none;
 	}
 
-nav.menu-navigo ul li.btn a {
-	color:white;
-	padding-top:20px;
-	padding-bottom: 20px;
-	padding-left:50px;
-	padding-right:50px; 
-	text-decoration:none;
-	background-color: orange;
-	border-radius: 25px;
-}
-nav.menu-navigo ul li.btn:hover a {
-	background-color:white;
-	color: orange;
-	padding-top:15px;
-	padding-bottom: 15px;
-	padding-left: 50px;
-	padding-right: 50px;
-	transition: 300ms;
-}
+
 h1{
 	background-color: gold;
 	display: inline-block;
@@ -72,7 +30,7 @@ div.news h1{
 	color: white;
 }
 div.news h1:hover{
-	transition: :3000ms;
+	transition: 3000ms;
 	background-color: white;
 	color: darkcyan;
 	padding:10px;
@@ -205,7 +163,7 @@ nav.follow ul li.btn a:hover{
 
 background-color: white ;
 color: red;
-transition: 300ms
-padding : 15px ;
+transition: 300ms;
+padding: 15px ;
 	
 }

@@ -58,6 +58,7 @@ div#content div.rightbox{
 	border-radius: 50px;
 	color:red;
 	transition:200ms;
+	width: 600px;
 }
 
 div#content div.rightbox:hover{
@@ -65,6 +66,7 @@ div#content div.rightbox:hover{
 	background-color:#8F0512;
 	color: gray;
 	border-radius: 20px;
+	
 }
 
 div#content div.rightbox iframe{
@@ -106,37 +108,6 @@ div#content div.rprk:hover{
 	background-color:blue; 
 	color: gray;
 }
-nav.menu-navigo ul.acceuil li.btn:hover{
-color:orange;
-	background-color:green;	
-	padding-left:  5px;
-	padding-right : 5px;
- transition:300ms;
-	border-radius:50px;
-	    width: 200px;
-    height: 100px;
-    border-radius: 15px;
-    border: blue;
-    border-style: solid;
-    border-width: 5px;
-
-}
-nav.menu-navigo ul.acceuil li.btn{
-color:orange;
-	background-color:yellow;
-	padding:  2px;	
-	transition:300ms;
-	border-radius:50px;
-}
-nav.menu-navigo ul li.btn:hover{
-color:orange;
-	background-color:red;	
-	padding-left:  5px;
-	padding-right : 5px;
- transition:300ms;
-	border-radius:50px;
-}
-
 
 nav.menu-navigo ul{
 	display: inline-flex;
@@ -145,26 +116,6 @@ nav.menu-navigo ul{
 nav.menu-navigo ul li{
 	list-style-type: none;
 	}
-
-nav.menu-navigo ul li.btn a {
-	color:white;
-	padding-top:20px;
-	padding-bottom: 20px;
-	padding-left:50px;
-	padding-right:50px; 
-	text-decoration:none;
-	background-color: orange;
-	border-radius: 25px;
-}
-nav.menu-navigo ul li.btn:hover a {
-	background-color:white;
-	color: orange;
-	padding-top:15px;
-	padding-bottom: 15px;
-	padding-left: 50px;
-	padding-right: 50px;
-	transition: 300ms;
-}
 
 h2.new-articles{
 	display: inline-block;
@@ -179,12 +130,3 @@ color:white;
 background-color: gold ;
 display: inline-block;
 }
-
-
-body{
-
-	
-	background-color: #F3F1C8;
-	
-}
-

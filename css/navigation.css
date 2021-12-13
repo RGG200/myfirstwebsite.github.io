@@ -1,0 +1,74 @@
+nav.menu-navigo ul.follow li img:hover{
+
+    transition:300ms;
+    border-radius: 15px;
+   
+   }
+   nav.menu-navigo ul.follow li img{
+       border: blue;
+       border-width: 5px;
+       border-style:  solid;
+       height: 50px;
+       width: 100px;
+       transition:300ms;
+       border-radius:5px;
+   }
+   nav.menu-navigo ul.acceuil li img:hover{
+   
+       transition:300ms;
+       border-radius: 15px;
+      
+      }
+      nav.menu-navigo ul.acceuil li img{
+          border: blue;
+          border-width: 5px;
+          border-style:  solid;
+          height: 50px;
+          width: 100px;
+          transition:300ms;
+          border-radius:5px;
+      }nav.menu-navigo ul.datapacks li img:hover{
+   
+       transition:300ms;
+       border-radius: 15px;
+      
+      }
+      nav.menu-navigo ul.datapacks li img{
+          border: blue;
+          border-width: 5px;
+          border-style:  solid;
+          height: 50px;
+          width: 100px;
+          transition:300ms;
+          border-radius:5px;
+      }nav.menu-navigo ul.news li img:hover{
+   
+       transition:300ms;
+       border-radius: 15px;
+      
+      }
+      nav.menu-navigo ul.news li img{
+          border: blue;
+          border-width: 5px;
+          border-style:  solid;
+          height: 50px;
+          width: 100px;
+          transition:300ms;
+          border-radius:5px;
+      }
+      nav.menu-navigo ul.pathecinia2 li img:hover{
+   
+        transition:300ms;
+        border-radius: 15px;
+       
+       }
+       nav.menu-navigo ul.pathecinia2 li img{
+           border: blue;
+           border-width: 5px;
+           border-style:  solid;
+           height: 50px;
+           width: 100px;
+           transition:300ms;
+           border-radius:5px;
+       }
+    
