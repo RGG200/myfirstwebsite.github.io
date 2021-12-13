@@ -9,19 +9,18 @@ body{
 	background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701914290.jpg");
 }
 nav.menu-navigo ul.follow li.btn:hover{
-color:orange;
-	background-color:green;	
-	padding-left:  5px;
-	padding-right : 5px;
- transition:300ms;
-	border-radius:50px;
+    width: 220px;
+    height: 110px;
+    transition-duration: 300ms;
 }
 nav.menu-navigo ul.follow li.btn{
-color:orange;
-	background-color:yellow;
-	padding:  2px;	
-	transition:300ms;
-	border-radius:50px;
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+    border: blue;
+    border-style: solid;
+    border-width: 5px;
+
 }
 nav.menu-navigo ul li.btn:hover{
 color:orange;
